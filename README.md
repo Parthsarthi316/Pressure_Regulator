@@ -1,5 +1,5 @@
 # Pressure_Regulator
-Code and circuit diagram for a pressure regulator using ITV0031,MPX5500DP &amp; MCP41010 sensor and IC
+Code and circuit diagram for a pressure regulator using ITV0031,MPX5500DP &amp; MCP41010.
 
 
 # Circuit_Diagram
