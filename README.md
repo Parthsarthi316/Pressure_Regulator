@@ -17,3 +17,5 @@ For instance:
 - would directly give zero to both the sensors (no need to enter _ in between).
 - would set first sensor to 50 while keeping the other sensor to 0 (no need of _ again if you need zero)
 - _50 would set the second sensor to 50 while keeping 1 at zero.
+
+# REMEMBER TO GROUND WHOLE CIRCUIT TO A SINGLE GROUND AND DO GIVE 12V SUPPLY TO YOUR BOARD!!!!!!! 8-)
