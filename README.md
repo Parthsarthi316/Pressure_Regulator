@@ -13,7 +13,7 @@ The following code is written for Arduino UNO. 11 is the MOSI & 13 is the CLK pi
 # EXECUTING
 Once executed type in serial monitor the pressure you need as following:
 For instance:
-*100_50 would ask sensor1(A0) to set pressure to 100 while the other(A1) to 50.
-*would directly give zero to both the sensors (no need to enter _ in between).
-*would set first sensor to 50 while keeping the other sensor to 0 (no need of _ again if you need zero)
-*_50 would set the second sensor to 50 while keeping 1 at zero.
+-100_50 would ask sensor1(A0) to set pressure to 100 while the other(A1) to 50.
+-would directly give zero to both the sensors (no need to enter _ in between).
+-would set first sensor to 50 while keeping the other sensor to 0 (no need of _ again if you need zero)
+-_50 would set the second sensor to 50 while keeping 1 at zero.
